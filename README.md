@@ -12,7 +12,9 @@ I want you to focus on:
 You do not need real backend integration. Use only the local fixture file I share.
 
 ## What I Will Share
-- Figma for the homepage
+- Figma for the homepage:
+  File link: https://www.figma.com/design/gWSL2i0XOGlUNNoZRziWdW/Project?node-id=10-800&t=RuFUxxaJr8QrczaD-0
+  Aniamiton link (assignment-rn.m4v attacehd for ref): https://www.figma.com/make/9dd7HiNr3mbPjQBDo0lWzV/Scrolling-Sticky-Sections-Prototype?code-node-id=0-9&p=f&t=18dZAPQg5aZJ2lf2-0&fullscreen=1
 - this assignment document
 - local fixture pack: `docs/homepage-assignment-candidate-fixtures.json`
 
@@ -95,6 +97,12 @@ You do not need to build flows outside the homepage, but the homepage itself sho
 - show the homepage only when serviceability is positive
 - map each homepage section to the correct fixture key
 - implement the important animation and interaction details shown in the reference video
+
+##NOTES FOR STICKY ANIMATION
+- make sure both whats on your mind list and filter get stick when user scroll past that componenet.
+- and while coming back it agian get removed accordingly.
+- try to make its attachment and deattachment smooth.
+- for better ref look in any food delivery app for same.
 
 ## Section Mapping
 
