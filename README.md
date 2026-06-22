@@ -15,6 +15,7 @@ You do not need real backend integration. Use only the local fixture file I shar
 - Figma for the homepage:
   File link: https://www.figma.com/design/gWSL2i0XOGlUNNoZRziWdW/Project?node-id=10-800&t=RuFUxxaJr8QrczaD-0
   Aniamiton link (assignment-rn.m4v attacehd for ref): https://www.figma.com/make/9dd7HiNr3mbPjQBDo0lWzV/Scrolling-Sticky-Sections-Prototype?code-node-id=0-9&p=f&t=18dZAPQg5aZJ2lf2-0&fullscreen=1
+  password: ownly@2026
 - this assignment document
 - local fixture pack: `docs/homepage-assignment-candidate-fixtures.json`
 
